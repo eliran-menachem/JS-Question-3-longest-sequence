@@ -1,4 +1,6 @@
 # JS-Question-3-longest-sequence
+(Without using any JS method)
+
 Find the longest sequence in sorted array
 given an array of integer numbers, sorted in ascending order, code a function that will find the
 starting position of the number with the most repetitions.
